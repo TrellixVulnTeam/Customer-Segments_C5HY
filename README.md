@@ -3,7 +3,7 @@
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
@@ -20,12 +20,8 @@ Template code is provided in the `customer_segments.ipynb` notebook file. You wi
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run the following command:
 
-```bash
-ipython notebook customer_segments.ipynb
-```  
-or
 ```bash
 jupyter notebook customer_segments.ipynb
 ```
